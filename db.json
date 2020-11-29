@@ -17,6 +17,17 @@
       "title": "Post 3",
       "body": "Post's body",
       "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Book One",
+      "body": "gdfgdfgdfgd",
+      "id": "dfEy4_f"
+    },
+    {
+      "publishedAt": "2020-11-29",
+      "title": "hg",
+      "body": "gfhgfhf",
+      "id": "UqYwFkT"
     }
   ],
   "users": [
@@ -26,5 +37,4 @@
       "email": "john@gmail.com"
     }
   ]
-
 }
